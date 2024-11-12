@@ -22,7 +22,7 @@ Bu derste döngüler (for, while) konusunu işledik. Bu döngüleri kullanarak e
 #### (https://github.com/aykut-coskun/CSharpEgitimKampi/tree/main/04_Loops)
 
 ## 🚀 Ders 5: LoopsWithStars
-Bu derste döngüleri hem normal hem de iç içe nasıl kullabileceğimi ve  yıldızlar ile nasıl şekil çizebileceğimi öğrendim. ➰⭐
+Bu derste döngüleri hem normal hem de iç içe nasıl kullabileceğimi ve  yıldızlar ile nasıl şekil çizebileceğimi öğrendim.➰⭐
 
 #### (https://github.com/aykut-coskun/CSharpEgitimKampi/tree/main/05_LoopsWithStars) 
 
