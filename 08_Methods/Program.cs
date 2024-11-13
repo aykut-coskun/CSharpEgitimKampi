@@ -146,7 +146,7 @@ namespace _08_Methods
                 }
                 else
                 {
-                    return student + " isimli öğrenci sınavı geçemnedi " + "Ortalama: " + result;
+                    return student + " isimli öğrenci sınavı geçemedi " + "Ortalama: " + result;
 
                 }
             }
