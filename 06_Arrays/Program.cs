@@ -32,7 +32,7 @@ namespace _06_Arrays
             //cities[3] = "Kahire";
             //cities[4] = "Üsküp";
 
-            //Console.WriteLine(cities[5]);
+            //Console.WriteLine(cities[4]); // cities[5] çağırmak istersek dizi sınırlarının dışında kaldığı için hata verir.
 
             //int[] number = new int[10];
             //number[0] = 50;
