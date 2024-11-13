@@ -128,7 +128,7 @@ namespace _07_ForeachLoop
                 //Öğrencilerin ortalaması ve geçip kalma durumları
                 if (studentExamAvg[i] >= 50)
                 {
-                    Console.WriteLine($"{studentNames[i]} adlı elamanı dersi geçti");
+                    Console.WriteLine($"{studentNames[i]} adlı öğrenci dersi geçti");
                 }
                 else
                 {
