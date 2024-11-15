@@ -1,5 +1,5 @@
 # ⭐⭐⭐ C# EĞİTİM KAMPI ⭐⭐⭐
-Bu repository, YouTube platformu üzerinden Murat Yücedağ koordinatörlüğünde verilen C# Eğitimi ile alakalı dersleri içermektedir. Bu derslerde C# programlama dilinde kullanılan yapıları ve kavramları gördüm, bunları uygulayarak bilgilerimi tazeleme ve kendimi geliştirme imkanı buldum. Eğitimde gördüğümüz ilk 8 ders aşağıda yer almaktadır:
+Bu repository, YouTube platformu üzerinden Murat Yücedağ koordinatörlüğünde verilen C# Eğitimi ile alakalı dersleri içermektedir. Bu derslerde C# programlama dilinde kullanılan yapıları ve kavramları gördüm, bunları uygulayarak bilgilerimi tazeleme ve kendimi geliştirme imkanı buldum. Eğitimde gördüğümüz ilk 8 ders aşağıda yer almaktadır ve diğer dersler de eklenecektir:
 
 ## 🚀 Ders 1: Main Subjects (Ana Konular)
 Bu derste yazdırma komutları ile değişkenler (string, int) konusunu işledik. Bu konuları içeren basit örnekler yaparak C# programlama dilinin temel anlamda nasıl işlediğini, değişkenleri kullanarak yazdırma komutlarının nasıl kullanıldığını kavradım. 💥
@@ -21,8 +21,8 @@ Bu derste döngüler (for, while) konusunu işledik. Bu döngüleri kullanarak e
 
 #### İlgili kodlar: (https://github.com/aykut-coskun/CSharpEgitimKampi/tree/main/04_Loops)
 
-## 🚀 Ders 5: LoopsWithStars
-Bu derste döngüleri hem normal hem de iç içe nasıl kullabileceğimi ve  yıldızlar ile nasıl şekil çizebileceğimi öğrendim.➰⭐
+## 🚀 Ders 5: LoopsWithStars ( Yıldızlar ile Döngüler)
+Bu derste döngüleri hem normal hem de iç içe nasıl kullanabileceğimi ve  yıldızlar ile nasıl şekil çizebileceğimi öğrendim.➰⭐
 
 #### İlgili kodlar: (https://github.com/aykut-coskun/CSharpEgitimKampi/tree/main/05_LoopsWithStars) 
 
